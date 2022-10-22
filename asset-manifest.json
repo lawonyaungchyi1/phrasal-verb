@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mcq-4/static/css/main.3d10672c.css",
+    "main.js": "/mcq-4/static/js/main.03f27ae2.js",
+    "static/media/nyanlin.png": "/mcq-4/static/media/nyanlin.12eb9d23573e9cc8d87d.png",
+    "index.html": "/mcq-4/index.html",
+    "main.3d10672c.css.map": "/mcq-4/static/css/main.3d10672c.css.map",
+    "main.03f27ae2.js.map": "/mcq-4/static/js/main.03f27ae2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d10672c.css",
+    "static/js/main.03f27ae2.js"
+  ]
+}
