@@ -77,4 +77,59 @@ export const zoology = [
     ],
     correctAnswers: ["come at === discover , reach"],
   },
+  {
+    id: 11,
+    questions: "Doctors always fight to ___ patients___.",
+    selections: [
+      "bring through",
+      "bring up",
+      "get about",
+      "fit in",
+      "get about",
+    ],
+    correctAnswers: ["bring through === save a sick person."],
+  },
+  {
+    id: 12,
+    questions: "The man who nearly drowned was ___ by artificial respiration.",
+    selections: [
+      "bring through",
+      "bring up",
+      "get about",
+      "brought round",
+      "put on",
+    ],
+    correctAnswers: ["bring round === restore to consciousness"],
+  },
+  {
+    id: 13,
+    questions: "When the boy fell off the bus , he ___ his elbow.",
+    selections: ["put on", "put out", "get about", "brought round", "put off"],
+    correctAnswers: ["put out === dislocate joint"],
+  },
+  {
+    id: 15,
+    questions: "",
+    selections: [
+      "put out",
+      "get about",
+      "run down",
+      "brought round",
+      "put off",
+    ],
+    correctAnswers: ["run down === be in poor health"],
+  },
+  {
+    id: 14,
+    questions:
+      "The workman was ____ from overwork and couldn't attend work today.",
+    selections: [
+      "put out",
+      "get about",
+      "run down",
+      "brought round",
+      "put off",
+    ],
+    correctAnswers: ["run down === be in poor health"],
+  },
 ];
