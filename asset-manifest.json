@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/phrasal-verb/static/css/main.3d10672c.css",
-    "main.js": "/phrasal-verb/static/js/main.c187c207.js",
+    "main.js": "/phrasal-verb/static/js/main.e2ba81c9.js",
     "static/media/nyanlin.png": "/phrasal-verb/static/media/nyanlin.12eb9d23573e9cc8d87d.png",
     "index.html": "/phrasal-verb/index.html",
     "main.3d10672c.css.map": "/phrasal-verb/static/css/main.3d10672c.css.map",
-    "main.c187c207.js.map": "/phrasal-verb/static/js/main.c187c207.js.map"
+    "main.e2ba81c9.js.map": "/phrasal-verb/static/js/main.e2ba81c9.js.map"
   },
   "entrypoints": [
     "static/css/main.3d10672c.css",
-    "static/js/main.c187c207.js"
+    "static/js/main.e2ba81c9.js"
   ]
 }
